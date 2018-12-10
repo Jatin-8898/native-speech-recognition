@@ -1,0 +1,21 @@
+{
+  "name": "native-speech-recognition",
+  "version": "1.0.0",
+  "description": "A native speech recognition without any api",
+  "main": "main.js",
+  "scripts": {
+    "start": "main.js"
+  },
+  "keywords": [
+    "speech",
+    "recognition"
+  ],
+  "author": "Jatin Varlyani",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
